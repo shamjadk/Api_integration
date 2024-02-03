@@ -3,7 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:screl_test/controller/login_storage.dart';
 import 'package:screl_test/view/home_page.dart';
 import 'package:screl_test/view/login_page.dart';
-import 'package:screl_test/view/login_page.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

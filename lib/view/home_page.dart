@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:screl_test/provider/api_provider.dart';
-import 'package:screl_test/view/login_page.dart';
 import 'package:screl_test/view/profile_page.dart';
 
 class HomePage extends ConsumerWidget {

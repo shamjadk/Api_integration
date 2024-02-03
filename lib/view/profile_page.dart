@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:screl_test/controller/login_storage.dart';
 import 'package:screl_test/view/login_page.dart';
-import 'package:screl_test/view/login_page.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
